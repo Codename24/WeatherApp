@@ -1,0 +1,24 @@
+
+*.xml
+Weather App/Weather App/bin/Debug/netcoreapp2.1/Weather App.deps.json
+Weather App/Weather App/bin/Debug/netcoreapp2.1/Weather App.dll
+Weather App/Weather App/bin/Debug/netcoreapp2.1/Weather App.pdb
+Weather App/Weather App/bin/Debug/netcoreapp2.1/Weather App.runtimeconfig.dev.json
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.AssemblyInfo.cs
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.AssemblyInfoInputs.cache
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.assets.cache
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.csproj.CoreCompileInputs.cache
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.csproj.FileListAbsolute.txt
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.csprojAssemblyReference.cache
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.csprojResolveAssemblyReference.cache
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.dll
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.pdb
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.RazorAssemblyInfo.cache
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.RazorAssemblyInfo.cs
+Weather App/Weather App/obj/Debug/netcoreapp2.1/Weather App.RazorTargetAssemblyInfo.cache
+Weather App/Weather App/obj/project.assets.json
+Weather App/Weather App/obj/project.packagespec.json
+Weather App/Weather App/obj/Weather App.csproj.nuget.cache
+Weather App/Weather App/obj/Weather App.csproj.nuget.g.props
+Weather App/Weather App/obj/Weather App.csproj.nuget.g.targets
+Weather App/.idea/.idea.Weather App/.idea/modules.xml
