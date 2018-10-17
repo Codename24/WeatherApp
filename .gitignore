@@ -22,3 +22,5 @@ Weather App/Weather App/obj/Weather App.csproj.nuget.cache
 Weather App/Weather App/obj/Weather App.csproj.nuget.g.props
 Weather App/Weather App/obj/Weather App.csproj.nuget.g.targets
 Weather App/.idea/.idea.Weather App/.idea/modules.xml
+Weather App/.idea/.idea.Weather App/riderModule.iml
+Weather App/Weather App/bin/Debug/netcoreapp2.1/Weather App.runtimeconfig.json
